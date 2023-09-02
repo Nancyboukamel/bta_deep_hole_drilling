@@ -1,5 +1,5 @@
 #########  Project 2 #############
-setwd("/Users/nancyboukamel/Desktop/casestudies/folders/")
+setwd("folders/")
 options(scipen = "99999")
 library("tuneR")
 library('seewave')
